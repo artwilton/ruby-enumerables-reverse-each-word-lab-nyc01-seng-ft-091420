@@ -5,6 +5,3 @@ def reverse_each_word(sentence1)
     array = array.join(" ")
     array
 end
-
-def reverse_each_word(sentence2)
-end
