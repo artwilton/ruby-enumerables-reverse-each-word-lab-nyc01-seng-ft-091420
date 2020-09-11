@@ -3,7 +3,7 @@ def reverse_each_word(sentence1)
        word.reverse!
     end
     array = array.join(" ")
-    p array
+    array
 end
 
 def reverse_each_word(sentence2)
